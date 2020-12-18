@@ -16,4 +16,5 @@ General | TOPPERSの開発成果物に関する情報交換・議論
 Q&A |  TOPPERSの開発成果物に関するQ&A
 ET-Robocon | ETロボコン向けのTOPPERS成果物に関するQ&A 
 
-なお，このレポジトリでは，Discussionsのみを使用し，Codeは入れないものとします。
+なお，このレポジトリでは，Discussionsのみを使用し，Codeは使わないものとします。
+そのため，Pull requestも使いません。
