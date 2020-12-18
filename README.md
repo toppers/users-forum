@@ -4,6 +4,7 @@ TOPPERSプロジェクトの開発成果物のユーザのためのQ&amp;Aおよ
 投稿された記事を閲覧する場合は，"Discussions" をクリックし，読みたい記事を選択してください。
 投稿された記事をメールで受け取りたい場合には，"Watch" の右の下三角をクリックし，"All activity" を選択してください。
 また，個別の議論に関する投稿のみをメールで受け取りたい場合には，議論毎に subscribe／unsubscribe することもできます。
+カテゴリ毎に subscribe／unsubscribe することはできないようです。
 
 記事を投稿する場合には，"Discussions"をクリックし，"New discussion"をクリックしてください。
 
