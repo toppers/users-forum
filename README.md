@@ -13,9 +13,9 @@ TOPPERSプロジェクトの開発成果物のユーザのためのQ&amp;Aおよ
 
 カテゴリ名 | 説明
 -------- | -------------
-General | TOPPERSの開発成果物に関する情報交換・議論 
-Q&A |  TOPPERSの開発成果物に関するQ&A
-ET-Robocon | ETロボコン向けのTOPPERS成果物に関するQ&A 
+[General](https://github.com/toppers/users/discussions/categories/general) | TOPPERSの開発成果物に関する情報交換・議論 
+[Q&A](https://github.com/toppers/users/discussions/categories/q-a) |  TOPPERSの開発成果物に関するQ&A
+[ET-Robocon](https://github.com/toppers/users/discussions/categories/et-robocon) | ETロボコン向けのTOPPERS成果物に関するQ&A 
 
 なお，このレポジトリでは，Discussionsのみを使用し，Codeは使わないものとします。
 そのため，Pull requestも使いません。
