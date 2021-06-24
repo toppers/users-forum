@@ -1,4 +1,4 @@
-# users
+# users-forum
 TOPPERSプロジェクトの開発成果物のユーザのためのQ&amp;Aおよび情報交換の場です（テスト運用中）。
 
 投稿された記事を閲覧する場合は，["Discussions"](https://github.com/toppers/users/discussions)をクリックし，読みたい記事を選択してください。
