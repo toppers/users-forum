@@ -17,6 +17,7 @@ TOPPERSプロジェクトの開発成果物のユーザのためのQ&amp;Aおよ
 [Announcements](https://github.com/toppers/users/discussions/categories/announcements) | TOPPERSに関するリリース情報やイベントのお知らせ
 [Q&A](https://github.com/toppers/users/discussions/categories/q-a) |  TOPPERSの開発成果物に関するQ&A(EV3RTに関するQ&AはET-Roboconにお願いします)
 [ET-Robocon](https://github.com/toppers/users/discussions/categories/et-robocon) | ETロボコン向けのTOPPERS成果物に関するQ&A(EV3RTはこちらにお願いします) 
+[TOPPERS Seminar](https://github.com/toppers/users-forum/discussions/categories/toppers-seminar) | TOPPERSプロジェクト教育WGのセミナーに関するQ&Aや情報共有
 
 また，箱庭に関するQ&amp;Aや情報交換の場として，[箱庭のレポジトリのDiscussions](https://github.com/toppers/hakoniwa/discussions)があります。
 
