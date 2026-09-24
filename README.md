@@ -7,7 +7,7 @@ TOPPERSプロジェクトの開発成果物のユーザのためのQ&amp;Aおよ
 カテゴリ毎に subscribe／unsubscribe することはできないようです。
 
 記事を投稿する場合には，["Discussions"](https://github.com/toppers/users/discussions)をクリックし，
-["New discussion"](https://github.com/toppers/users/discussions/new)をクリックしてください。
+["New discussion"](https://github.com/toppers/users/discussions/new/choose)をクリックしてください。
 
 現在，以下の4つのカテゴリを用意しています。カテゴリは，必要に応じて増やすことにします。
 
